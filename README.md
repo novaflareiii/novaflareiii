@@ -5,12 +5,15 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=novaflareiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<br/><br/>
+<p style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.shion.dev/api?username=novaflareiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=novaflareiii&theme=dark&hide_border=false)
+<p style="margin-bottom: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=novaflareiii&theme=dark&hide_border=false" />
+</p>
 
-<br/><br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=novaflareiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=novaflareiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
