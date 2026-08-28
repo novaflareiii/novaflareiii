@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌱 learning everyday
 
 # 💻 Tech Stack:
