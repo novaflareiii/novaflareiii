@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpapers.com/images/hd/kibutsuji-muzan-2yq6xunxxf9grbj3.webp" style="width:80%; height:40vh; object-fit:cover;">
+  <img src="https://wallpapers.com/images/hd/kibutsuji-muzan-2yq6xunxxf9grbj3.webp" style="width:100%; height:50vh; object-fit:cover;">
 </p>
 
 # About Me:
