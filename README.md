@@ -23,5 +23,5 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=novaflareiii&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=novaflareiii&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
