@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://img.sanishtech.com/u/277838c1fa2f2807b37ce0d526cf0d9d.jpeg" style="width:100%; height:45vh; object-fit:cover;">
+  <img src="https://img.sanishtech.com/u/277838c1fa2f2807b37ce0d526cf0d9d.jpeg"
+       style="width:100%; height:auto; display:block;">
 </p>
 
 # About Me:
